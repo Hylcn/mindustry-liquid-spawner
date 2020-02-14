@@ -1,0 +1,16 @@
+{
+    "type": "LiquidSource",
+	"name": "Liquid-Spawner",
+	"description": "Infinity Fiuld Spawner.",
+	"size": 1,
+	"hasLiquids": true,
+	"ItemStack": 100,
+	"update": true,
+	"soild": true,
+	"configurable": true,
+	"requirements": [
+	    { "item": "copper", "amount": "1" },
+	]
+	"category": "liquid"
+	"research": "mechanical-pump"
+}
